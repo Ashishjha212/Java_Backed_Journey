@@ -1,0 +1,13 @@
+
+# Eclipse workspace metadata
+**/.metadata/
+
+# Compiled Java files
+**/*.class
+**/bin/
+
+# Build output
+**/target/
+
+# Temporary files
+**/*.log
